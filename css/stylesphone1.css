@@ -1,0 +1,52 @@
+.title{
+  height: 2200px;
+}
+.title h1{
+  position: relative;
+  top: 800px;
+}
+.title h3{
+  top: 700px;
+}
+.title h2{
+  top: 800px;
+}
+.span{
+  color: white;
+}
+.middle{
+  height: 1200px;
+}
+.middle h1,h3,h4,h5,h6{
+  font-size: 240%;
+}
+#carouselExampleControls{
+    height: 900px;
+    padding: 20px;
+}
+.crs{
+  font-size: 2rem;
+}
+#footer{
+  height: 200px;
+}
+.footer-icons,.killme{
+  font-size: 3.5rem;
+}
+#edigest img{
+  width: 25rem;
+}
+.indexbtn{
+  margin-right: 40px;
+    font-size: 2rem;
+}
+.heads,.active{
+  font-size: 2.5rem;
+}
+.eeslogo{
+width: 7rem;
+margin: 0;
+}
+footer p{
+  font-size: 1.5rem;
+}

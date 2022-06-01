@@ -1,0 +1,160 @@
+body{
+  margin: 0;
+  text-align: center;
+}
+
+
+/* head section // title */
+.navbar{
+  height: 8%;
+}
+.crs{
+  position: relative;
+  z-index: 0;
+}
+.eeslogo{
+  position: relative;
+  width: 5rem;
+  margin-left: 1rem;
+  margin-top: 2rem;
+}
+.navbar-nav{
+  margin-right: 2rem;
+}
+.heads{
+  color: white !important;
+}
+.navbar a:hover{
+  color: grey !important;
+}
+#home2{
+  color: grey;
+  text-decoration: underline;
+}
+
+.title{
+  background-image: url("../images/streetlight.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size:cover;
+  background-attachment: fixed;
+  height: 750px;
+
+}
+.title h2{
+  position: relative;
+  top: 250px;
+  color: white;
+  font-size: 1.6rem;
+}
+.title h1{
+  font-size: 4rem;
+  position: relative;
+  top: 230px;
+  color: white;
+}
+.title h3{
+  position: relative;
+  top: 230px;
+  color: white;
+}
+.span{
+  color: black;
+}
+
+
+/* MIDDLE */
+
+.container-fluid{
+  padding: 80px 0;
+}
+.hod{
+  margin-top: 150px;
+}
+.hod img{
+  border-radius: 100%;
+  border-style: solid;
+  /* border-color: black; */
+ border-color: grey;
+}
+.fa{
+  margin-top: 90px;
+font-family: var(--bs-body-font-family)!important;
+}
+/* .fa img{
+  border-radius: 100%;
+  border-style: solid;
+  /* border-color: black; */
+ /* border-color: grey;
+}  */
+.middle h1{
+  color: grey;
+}
+
+/* EVENTS */
+#carouselExampleControls{
+  height: 600px;
+  background-image: url("../images/BLACKEVENT.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+.car{
+  padding: 40px;
+  width: 19rem;
+
+}
+#oorja{
+  color: white;
+}
+#oorja a{
+  text-decoration: none;
+  color: grey;
+}
+#oorja a:hover{
+  color: white;
+}
+
+#vis{
+  color: white;
+margin-top: 30px;
+}
+#bg{
+  margin-top: 300px;
+  color: white;
+}
+#bg a{
+  text-decoration: none;
+  color: grey;
+}
+#bg a:hover{
+  color: #D1D1D1;
+  text-decoration: underline;
+}
+#edigest img{
+width: 20%;
+}
+#edigest{
+  margin-top: 50px;
+  color: white;
+}
+footer{
+  background-image: url("../images/foot.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  height: 200px;
+  padding: 20px;
+}
+.foot{
+  margin-top: 40px;
+}
+.foot a{
+  color: black;
+  font-size: 2rem;
+  margin: 0 1rem;
+}
+.foot i:hover{
+  transform: scale(1.3);
+  color: grey;
+}

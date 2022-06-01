@@ -1,0 +1,25 @@
+.indexbtn{
+  margin-right: 40px;
+    font-size: 2rem;
+}
+.heads,.active{
+  font-size: 2.5rem;
+}
+.eeslogo{
+width: 7rem;
+margin: 0;
+}
+#ourteam{
+  font-size: 2.5rem;
+}
+.title{
+  height: 1800px;
+}
+.title h1{
+  margin-top: 600px;
+}
+footer{
+  padding: 5px;
+  height: 40px;
+  font-size: 30px;
+}

@@ -1,0 +1,90 @@
+body{
+  padding: 0;
+  text-align: center;
+}
+
+.navbar{
+  height: 10%;
+}
+.crs{
+  position: relative;
+  z-index: 0;
+}
+.eeslogo{
+  position: relative;
+  width: 5rem;
+  margin-left: 1rem;
+  margin-top: 2rem;
+}
+.navbar-nav{
+  margin-right: 2rem;
+}
+.title{
+  background-image: url("../images/teambg.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size:cover;
+  background-attachment: fixed;
+  height: 750px;
+  margin: 0;
+}
+.heads{
+  color: white !important;
+}
+
+.heads:hover{
+  color: grey!important;
+}
+#ourteam{
+  color: grey;
+  text-decoration: underline;
+}
+.title h1{
+  margin-top: 150px;
+  font-size: 540%;
+  color: white;
+}
+.mid{
+  padding: 90px 0;
+background-image: url("../images/wtbg.jpg");
+background-repeat: no-repeat;
+background-position: center;
+background-size:cover;
+background-attachment: fixed;
+}
+.ig{
+width: 850px;
+}
+.eespic{
+  width: 100px;
+  height: 150px;
+}
+.cardo{
+  margin: 80px 0 80px 0;
+}
+.mid2{
+  padding-top: 50px;
+  color: grey;
+  background-image: url("../images/teambg2.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size:cover;
+  background-attachment: fixed;
+}
+.hod{
+  padding: 110px;
+
+  background-image: url("../images/wtbg.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size:cover;
+  background-attachment: fixed;
+}
+
+footer{
+  background-color: black;
+  color: white;
+  padding: 5px;
+}
+.navbar-light .navbar-toggler-icon {
+    background-image: url(data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 30 30'%3e%3cpath stroke='rgba%280, 0, 0, 0.55%29' stroke-linecap='round' stroke-miterlimit='10' stroke-width='2' d='M4 7h22M4 15h22M4 23h22'/%3e%3c/svg%3e);
